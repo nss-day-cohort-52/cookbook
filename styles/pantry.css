@@ -1,0 +1,8 @@
+.pantryItems {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pantryItem {
+
+}

@@ -1,0 +1,12 @@
+.item {
+    display: flex;
+}
+
+.item__name {
+    flex: 4;
+}
+
+.item__quantity {
+    flex: 1;
+    text-align: center;
+}
